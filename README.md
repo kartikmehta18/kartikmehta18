@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartik Mehta</h1>
-<h3 align="center">A passionate UI/UX & frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmehta18&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmehta18" /> </p>
 
@@ -45,9 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikmehta18&show_icons=true&locale=en" alt="kartikmehta18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta18&" alt="kartikmehta18" /></p>
-
-
-<!---
-kartikmehta18/kartikmehta18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
