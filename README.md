@@ -26,8 +26,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kartikmeht90357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikmeht90357" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartik mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik mehta" height="30" width="40" /></a>
+<a href="https://twitter.com/Kartikmehta_png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartikmeht90357" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kartik-mehta-6729b0255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik mehta" height="30" width="40" /></a>
 <a href="https://fb.com/kartik mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kartik mehta" height="30" width="40" /></a>
 <a href="https://instagram.com/kartik.mehta18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik.mehta18" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kartik mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kartik mehta" height="30" width="40" /></a>
