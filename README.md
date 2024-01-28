@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/kartikmeht90357" target="blank"><img src="https://img.shields.io/twitter/follow/kartikmeht90357?logo=twitter&style=for-the-badge" alt="kartikmeht90357" /></a> </p>
 
-- 🔭 I’m currently working on [Dr.IOT](https://devfolio.co/projects/driot-566a)
+- 🔭 I’m currently working on [AI-NF-SOL](https://github.com/kartikmehta18/AI-NF-SOL.git)
 
-- 🌱 I’m currently learning **Feameworks ,java script,node.js**
+- 🌱 I’m currently learning **Feameworks ,java script, Next.js, node.js**
 
 - 👯 I’m looking to collaborate on [MADADGAR](https://devfolio.co/projects/madadgar-4bfb)
 
-- 🤝 I’m looking for help with [VOTE](https://devfolio.co/projects/blockchain-based-voting-system-8eda)
+- 🤝 I’m looking for help with [VOTE- blockchain-based-voting-system](https://devfolio.co/projects/blockchain-based-voting-system-8eda)
 
 - 👨‍💻 All of my projects are available at [https://kartikmehta.tech/](https://kartikmehta.tech/)
 
