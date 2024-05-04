@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Kartik Mehta</h1>
-<h3 align="center">A passionate frontend developer & UX/UX from India</h3>
+<h3 align="center">A passionate frontend developer & UX/UX Designer & Video Editor from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmehta18&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmehta18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kartikmehta18" alt="kartikmehta18" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kartikmeht90357" target="blank"><img src="https://img.shields.io/twitter/follow/kartikmeht90357?logo=twitter&style=for-the-badge" alt="kartikmeht90357" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Kartikmehta_png" target="blank"><img src="https://img.shields.io/twitter/follow/kartikmeht90357?logo=twitter&style=for-the-badge" alt="kartikmeht_png" /></a> </p>
 
 - 🔭 I’m currently working on [AI-NF-SOL](https://github.com/kartikmehta18/AI-NF-SOL.git)
 
-- 🌱 I’m currently learning **Feameworks ,java script, Next.js, node.js**
+- 🌱 I’m currently learning **Feameworks ,java script, Next.js, react.js**
 
 - 👯 I’m looking to collaborate on [MADADGAR](https://devfolio.co/projects/madadgar-4bfb)
 
