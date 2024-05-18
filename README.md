@@ -1,6 +1,8 @@
 
+<h1 align="center">Hi 👋, I'm Kartik Mehta</h1><div align="center">
 
-<h1 align="center">Hi 👋, I'm Kartik Mehta</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=500&color=F7F7F7&random=false&width=535&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Front-End++Developer+%F0%9F%92%BB%F0%9F%91%BB;Let's+Connect!+%F0%9F%98%83%F0%9F%9A%80)](https://git.io/typing-svg)
+</div>
 <h3 align="center">A passionate frontend developer & UX/UX Designer & Video Editor from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikmehta18&label=Profile%20views&color=0e75b6&style=flat" alt="kartikmehta18" /> </p>
@@ -66,6 +68,7 @@
 
 #### Show some ❤️ by starring some of the repositories!
 </div>
+
 
 
 
