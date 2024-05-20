@@ -57,7 +57,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta18&" alt="kartikmehta18" /></p> -->
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartikmehta18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta18&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=kartikmehta18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" title="Github Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikmehta18&theme=tokyonight&hide_border=true" alt="Github Streak" title="Github Streak"/> 
 
 
 <!--badge  -->
