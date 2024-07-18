@@ -44,7 +44,7 @@
 
 <p><h3 align="left">Languages and Tools:</h3></p>
 
-[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,pr,ps,xd,ai,flutter)]()
+[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,docker,pr,ps,xd,ai,flutter)]()
 
 
 <!-- <h3 align="left">Support:</h3>
