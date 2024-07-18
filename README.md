@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on [AI-NF-SOL](https://github.com/kartikmehta18/AI-NF-SOL.git)
 
-- 🌱 I’m currently learning **Feameworks ,java script, Next.js, react.js**
+- 🌱 I’m currently learning **MERN ,java script, Next.js, react.js**
 
 - 👯 I’m looking to collaborate on [MADADGAR](https://devfolio.co/projects/madadgar-4bfb)
 
-- 🤝 I’m looking for help with [VOTE- blockchain-based-voting-system](https://devfolio.co/projects/blockchain-based-voting-system-8eda)
+- 🤝 I’m looking for help with [Supply-Chain-Management-System](https://github.com/kartikmehta18/SupplyChainManagement)
 
 - 👨‍💻 All of my projects are available at [GIthub](https://github.com/kartikmehta18/)
 
@@ -44,7 +44,7 @@
 
 <p><h3 align="left">Languages and Tools:</h3></p>
 
-[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,pr,ps,xd,ai,flutter)](https://skillicons.dev)
+[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,pr,ps,xd,ai,flutter)](https://skillicons.dev)
 
 
 <!-- <h3 align="left">Support:</h3>
