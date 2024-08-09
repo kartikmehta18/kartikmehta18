@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [AI-NF-SOL](https://github.com/kartikmehta18/AI-NF-SOL.git)
 
-- 🌱 I’m currently learning **MERN ,java script, Next.js, react.js**
+- 🌱 I’m currently learning **MERN ,javascript, Next.js, react.js,**
 
 - 👯 I’m looking to collaborate on [MADADGAR](https://devfolio.co/projects/madadgar-4bfb)
 
