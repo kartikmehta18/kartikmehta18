@@ -115,7 +115,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kartikmehta18"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kartikmehta18" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikmehta18&show_icons=true&locale=en&layout=compact" alt="kartikmehta18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikmehta18&show_icons=true&locale=en&layout=compact " alt="kartikmehta18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikmehta18&show_icons=true&locale=en" alt="kartikmehta18" /></p>
 
