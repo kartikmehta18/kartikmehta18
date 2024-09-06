@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **MERN ,javascript, Next.js, react.js,**
 
-- 👯 I’m looking to collaborate on [MADADGAR](https://devfolio.co/projects/madadgar-4bfb)
+- 👯 I’m looking to collaborate on [TravAI -AI trip planner & itinerary gen](https://tripplannerai.vercel.app/)
 
 - 🤝 I’m looking for help with [Supply-Chain-Management-System](https://github.com/kartikmehta18/SupplyChainManagement)
 
