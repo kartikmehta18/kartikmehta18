@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kartik-mehta-%F0%9F%94%9C-witconf-6729b0255/">
+  <a href="https://www.linkedin.com/in/kartik-mehta-6729b0255/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
     <a href="https://twitter.com/Kartikmehta_png">
     <img src="https://skillicons.dev/icons?i=twitter" />
@@ -44,7 +44,7 @@
 
 <p><h3 align="left">Languages and Tools:</h3></p>
 
-[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,typescript,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,docker,appwrite,firebase,vercel,mongodb,express,reactnative,pr,ps,xd,ai,ae)]()
+[![Languages and Tools:](https://skillicons.dev/icons?i=js,react,vite,typescript,nodejs,mongodb,express,redux,html,css,bootstrap,java,c,cpp,mysql,py,tailwind,figma,git,github,replit,postman,docker,appwrite,firebase,remix,solidity,vercel,pr,ps,xd,ai,ae)]()
 
 
 <!-- <h3 align="left">Support:</h3>
