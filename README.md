@@ -63,6 +63,9 @@
 <!--badge  -->
 [![An image of @kartikmehta18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikmehta18)](https://holopin.io/@kartikmehta18)
 
+![Copy of Copy of Mastan Sayyad](https://github.com/user-attachments/assets/2aef792e-7065-4d36-be91-b2ef4c726719)
+
+
 <div align="center">
 
 
