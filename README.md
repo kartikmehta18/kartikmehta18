@@ -13,7 +13,7 @@
 <img align="right" alt="Code " src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=ecf05e47wriar6jmlt8qts6w4no95x9za1b4jjfv7tr2f7fq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="320"> 
 <!-- <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="3000px" max-width="300px" width="350px" align="right">-->
 
-- 🔭 I’m currently Building [AudioWave](https://audiowavee.vercel.app/) & AIRecruter [AIRecruter](https://recruiteraipro.vercel.app/)
+- 🔭 I’m currently Building [AudioWave](https://audiowavee.vercel.app/) & [AIRecruter](https://recruiteraipro.vercel.app/)
 
 - 🌱 I’m currently learning **MERN ,javascript, Next.js, react.js,**
 
